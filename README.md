@@ -1,4 +1,4 @@
-# learnify_task_otp
+# OTP Verification Screen
 
 A new Flutter project.
 
