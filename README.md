@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Demo
 
+![OTP_Verification](https://github.com/Anas-313/OTP-Verification-Screen/assets/93598723/4f0b16cb-6534-4c93-aa8d-720d3063f064)
 
-https://github.com/Anas-313/OTP-Verification-Screen/assets/93598723/26cd1678-8a71-4fb9-a64c-a0ba8445a504
 
